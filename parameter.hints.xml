@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="java.time.LocalTime.LocalTime(hour,minute,second,nanoOfSecond)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
